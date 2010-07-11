@@ -1,0 +1,5 @@
+search a keyword in files and replace that keyword with provided arguments
+
+example:
+~$ chmod +x php_batch_replaces.php
+~$ ./php_batch_replaces -d /path/to/your/files/ -s 'keyword_to_search' -r 'keyword_to_replace' -v
